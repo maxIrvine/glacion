@@ -1,4 +1,4 @@
-# glacion [[https://raw.githubusercontent.com/maxIrvine/glacion/master/images/glacion-logo-red.svg]]
+# glacion [[https://raw.githubusercontent.com/maxIrvine/glacion/images/glacion-tie-favicon.png]]
 
 ## Overview: Glacion is a web application that helps people find where they should live for their next job. The user is prompted with a city they would like to live in, a job they would like to have, and a time frame the job has been listed in. Glacion takes the user's information and displays a heat map overlay on a google map. High heat areas show where jobs are concentrated. This gives the user an idea of where they should move to. 
 
